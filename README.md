@@ -2,7 +2,7 @@
 
 meu nome é BFelix19
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,4 @@ meu nome é BFelix19
 - 
 - @BFelix19
 
-
-https://media1.tenor.com/m/Gv2raDpXsFcAAAAC/kitten-kitty.gif
+![](https://media1.tenor.com/m/Gv2raDpXsFcAAAAC/kitten-kitty.gif)
